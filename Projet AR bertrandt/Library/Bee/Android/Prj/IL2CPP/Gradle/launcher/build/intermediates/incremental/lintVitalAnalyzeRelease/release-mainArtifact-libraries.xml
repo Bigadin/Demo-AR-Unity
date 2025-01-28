@@ -1,0 +1,84 @@
+<libraries>
+  <library
+      name="C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\5892f761bf625f35eae542e429d58af7\transformed\out\jars\classes.jar;C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\5892f761bf625f35eae542e429d58af7\transformed\out\jars\libs\R.jar;C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\5892f761bf625f35eae542e429d58af7\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\5892f761bf625f35eae542e429d58af7\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name=":arcore_client:@aar"
+      jars="C:\Users\ggyan\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\jars\classes.jar"
+      resolved=":arcore_client:"
+      folder="C:\Users\ggyan\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":ARPresto:@aar"
+      jars="C:\Users\ggyan\.gradle\caches\transforms-3\448426ef75b90c47b43650833b7f32b1\transformed\jetified-ARPresto\jars\classes.jar"
+      resolved=":ARPresto:"
+      folder="C:\Users\ggyan\.gradle\caches\transforms-3\448426ef75b90c47b43650833b7f32b1\transformed\jetified-ARPresto"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":UnityARCore:@aar"
+      jars="C:\Users\ggyan\.gradle\caches\transforms-3\615b9adc230c2f75c89364547aae49d4\transformed\jetified-UnityARCore\jars\classes.jar"
+      resolved=":UnityARCore:"
+      folder="C:\Users\ggyan\.gradle\caches\transforms-3\615b9adc230c2f75c89364547aae49d4\transformed\jetified-UnityARCore"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":unityandroidpermissions:@aar"
+      jars="C:\Users\ggyan\.gradle\caches\transforms-3\fc180837684a54e724ff65ec8e166ead\transformed\jetified-unityandroidpermissions\jars\classes.jar"
+      resolved=":unityandroidpermissions:"
+      folder="C:\Users\ggyan\.gradle\caches\transforms-3\fc180837684a54e724ff65ec8e166ead\transformed\jetified-unityandroidpermissions"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\91110295bf41cae7edfc89870c1d2880\transformed\out\jars\classes.jar;C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\91110295bf41cae7edfc89870c1d2880\transformed\out\jars\libs\R.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="C:\Users\ggyan\Documents\Projet AR bertrandt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\91110295bf41cae7edfc89870c1d2880\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
